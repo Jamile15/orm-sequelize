@@ -1,4 +1,18 @@
 
+# Minha API Express com ORM Sequelize
+
+Bem-vindo ao meu projeto de exemplo usando o ORM Sequelize em uma API Express! Este projeto demonstra como usar o Sequelize para criar, migrar e consultar um banco de dados SQL com facilidade em uma API Express. Siga as etapas abaixo para configurar e executar o projeto em sua máquina.
+
+## Instalação
+
+Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) e o [PostgreSQL](https://www.postgresql.org/) instalados em seu sistema. Clone este repositório e siga as etapas abaixo.
+
+1. **Instale as dependências do Node.js:**
+
+   ```bash
+   npm install
+
+   
 Para obter mais informações sobre o Sequelize, consulte a [documentação oficial](https://sequelize.org/docs/v6/core-concepts/model-basics/).
 
 ## Comandos CLI
