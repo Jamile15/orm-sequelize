@@ -1,0 +1,1 @@
+documentação sequelize https://opencollective.com/sequelizepsql -U postgres -d
